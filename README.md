@@ -1,4 +1,4 @@
-Python Desktop Calculator
+Python Desktop Calculator:
  A simple and clean desktop calculator application built using Python and the `tkinter` library.
 
  Features
